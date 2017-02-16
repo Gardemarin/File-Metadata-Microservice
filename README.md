@@ -8,4 +8,4 @@
 3. When I submit something, I will receive the file name, and size in bytes within the JSON response.
 
 #### Example output:
-* {"name":"0-weu-d2-a7b78f29640b706bf757cf2510ca75cd.jpg","type":"image/jpeg","size":133159}
+* `{"name":"0-weu-d2-a7b78f29640b706bf757cf2510ca75cd.jpg","type":"image/jpeg","size":133159}`
